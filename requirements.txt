@@ -1,0 +1,3 @@
+pip >= 14.0
+numpy >= 1.1
+matplotlib >= 3.0
